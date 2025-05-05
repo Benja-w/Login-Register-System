@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     background: #002d40;
     background-image: url(images.jpeg);
-    background-size: cover;
+    background-size: contain;
     image-rendering: auto;
     background-position: center;
 }
