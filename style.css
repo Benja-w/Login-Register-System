@@ -15,6 +15,7 @@ body {
     background: #002d40;
     background-image: url(images.jpeg);
     background-size: cover;
+    image-rendering: auto;
     background-position: center;
 }
 
