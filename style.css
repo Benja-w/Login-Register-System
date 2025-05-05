@@ -13,7 +13,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #002d40;
-    background-image: url(images.jpg); 
+    background-image: ![una imagen x](docs/images.jpg); 
     background-size: cover;
     background-position: center;
 }
